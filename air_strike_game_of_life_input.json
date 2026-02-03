@@ -1,0 +1,6 @@
+{"world": {"height": 5, "width": 5, "cells": [".....",
+".....", "..**.", "..**.", "....."]},"simulation": {"fps": 1,"cycles": 10}, 
+"airstrike_settings": {"radius": 2},
+  "airstrikes": [
+    { "cycle": 3, "row": 1, "col": 1 }
+  ]} 
