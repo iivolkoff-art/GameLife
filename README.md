@@ -1,4 +1,4 @@
-![GameLife](game.png)
+![GameLife](Game.PNG)
 
 **● Используемая технология/платформа**
 
@@ -53,4 +53,5 @@
 **Qt Quick Models** - использование QAbstractTableModel для создания связующего звена (ViewModel) между C++ и QML.
 
 **Qt Containers** - Применение структур данных, таких как QHash, для оптимизированной обработки данных для QML.
+
 
